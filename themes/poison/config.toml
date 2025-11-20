@@ -1,0 +1,27 @@
+[module]
+[module.hugoVersion]
+min = "0.41.0"
+baseURL = "https://ALLann123.github.io/maldev/"
+languageCode = "en-us"
+title = "Game Over"
+theme = "poison"
+description = "Security research, DFIR, threat hunts"
+pagination.pagerSize = 5                              # if you want 5 posts per page
+
+[params]
+brand = "Game Over"
+dark_mode = true
+# Social links
+twitter_url = "https://twitter.com/YourTwitterHandle"
+github_url = "https://github.com/ALLann123"
+linkedin_url = "https://linkedin.com/in/YourLinkedInURL"
+description = ""
+# Colors (optional)
+sidebar_bg_color = "#121212"
+sidebar_a_color = "#00ff7f"
+brand_image = "/img/avatar.png"
+
+menu = [
+  { Name = "About", URL = "/about/", HasChildren = false },
+  { Name = "Posts", URL = "/posts/", HasChildren = true, Limit = 5 },
+]
