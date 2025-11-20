@@ -1,0 +1,17 @@
+# Base settings
+baseURL = "https://example.org/"
+languageCode = "en-us"
+
+# Markup settings (syntax highlighting, raw HTML)
+[markup]
+[markup.highlight]
+noClasses = false
+[markup.goldmark.renderer]
+unsafe = true # allows raw HTML in posts
+
+# Site parameters (Poison-specific)
+[params]
+brand = "0wn_5h3_n3t"
+dark_mode = true               # enable dark theme
+front_page_content = ["posts"] # show blog posts on homepage
+description = "🚨Only Malware🚨"

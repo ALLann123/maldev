@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introductions on Code-Poison</title>
+    <link>http://localhost:1313/introduction/</link>
+    <description>Recent content in Introductions on Code-Poison</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Friend</title>
+      <link>http://localhost:1313/introduction/hello/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/introduction/hello/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-my-security-blog&#34;&gt;Welcome to my security blog.&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heres-an-example-scan&#34;&gt;Here’s an example scan:&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;nmap -A 10.0.0.10&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
